@@ -1,0 +1,22 @@
+{
+  "name": "android-kotlin",
+  "version": "1.0.0",
+  "description": "**Sobre o curso:**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonfdam/android-kotlin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonfdam/android-kotlin/issues"
+  },
+  "homepage": "https://github.com/jacksonfdam/android-kotlin#readme",
+  "dependencies": {
+    "markserv": "^1.12.3"
+  }
+}
