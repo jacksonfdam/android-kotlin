@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Exercicio02</string>
+    <string name="button_main">Enviar</string>
+    <string name="text_header">Mensagem Recebida</string>
+    <string name="editText_main">Entre sua mensagem aqui</string>
+    <string name="titulo">Aqui vai o titulo</string>
 </resources>
